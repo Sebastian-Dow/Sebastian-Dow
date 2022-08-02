@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there - Hola 👋
+## About me
+
+- I'm Sebastian, currently I'm studying economy and software engineering in Javeriana Cali.
+
+- I want to work on projects related to artificial intelligence and information management.
 
 <!--
 **Sebastian-Dow/Sebastian-Dow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
